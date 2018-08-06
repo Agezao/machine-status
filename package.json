@@ -1,0 +1,19 @@
+{
+  "name": "machine-status",
+  "version": "1.0.0",
+  "description": "Machine CPU + Mem + Disk tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "export": "node index.js --export"
+  },
+  "author": "Gabriel Age",
+  "license": "ISC",
+  "dependencies": {
+    "jsonexport": "^2.2.1",
+    "node-schedule": "^1.3.0",
+    "os-utils": "0.0.14",
+    "sqlite3": "^4.0.2"
+  }
+}

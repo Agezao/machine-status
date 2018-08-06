@@ -4,7 +4,6 @@ Machine-Status 💻📊
 
 Machine Status (CPU usage + Memory usage + Disk usage) tracking using node-js.
 
-[![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)](https://github.com/Agezao/machine-status)
 [![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)](https://github.com/Agezao/machine-status)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Agezao/machine-status)
 
